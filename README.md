@@ -7,7 +7,7 @@
 
 3. Database: MongoDB
 
-4. Authorization: JasonWebToken
+4. Authorization: JsonWebToken
 
 ---------------
 
